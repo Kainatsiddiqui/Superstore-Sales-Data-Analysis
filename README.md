@@ -10,7 +10,7 @@ The goal of this project is to demonstrate the complete data analysis workflow�
 
 ## 📸 Project Preview
 
-(Images/project_preview.png)
+![](images/project_preview.png)
 > A snapshot of the key visualizations generated during the analysis.
 
 ---
@@ -203,4 +203,5 @@ python Superstore_Sales_Data_Analysis.py
 
 ## 👨‍💻 Author
 **Kainat Siddiqui**
+
 If you found this project useful, feel free to ⭐ the repository.
